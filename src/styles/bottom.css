@@ -1,0 +1,38 @@
+.bottom__comp {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.title1 {
+    display: flex;
+}
+.boxes {
+    display: flex;
+    justify-content: center;
+    background-color: #FFF;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    width: 382px;
+    margin-right: 6px;
+    margin-bottom: 10px;
+}
+
+input { 
+    width: 100px;
+}
+
+.boxes2 {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.boxes3 {
+    display: flex;
+}
+textarea {
+    margin-left: 50px;
+    display: flex;
+    width: 600px;;
+    height: 60px;
+}

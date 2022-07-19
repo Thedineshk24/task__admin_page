@@ -1,0 +1,11 @@
+.row{
+    display: flex;
+    flex-direction: column;
+    height: 74px;
+    padding: 0px;
+    width: 100%;
+}
+.row__text {
+    display: flex;
+    font-size: 8px;
+}

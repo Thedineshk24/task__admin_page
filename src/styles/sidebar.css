@@ -1,0 +1,47 @@
+.logo {
+    display: flex;
+    justify-content: start;
+    margin-left: 50px;
+    width: 50px;
+    height: 74px;
+}
+
+.search__input {
+    width: 438px;
+    height: 44px;
+    margin-top: 10px;
+    margin-left: 167px;
+}
+
+.tags {
+    display: flex;
+    padding-top: 5px;
+    margin-left: 50px;
+    height: 30px;
+    margin-top: 16px;
+}
+
+span {
+    background-color: #FFF;
+    border-radius: 5px;
+    color: #000;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 20px;
+}
+
+.icons > p >::before {
+    content: "2";
+    background-color: red;
+    width: 20px;
+}
+
+.user {
+    display: flex;
+    justify-content: end;
+    margin-left: 10px;
+    font-size: xx-small;
+}
